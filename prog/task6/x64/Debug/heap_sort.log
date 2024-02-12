@@ -1,0 +1,3 @@
+﻿  heap_sort.cpp
+C:\Users\Admin\algorithmization-10\prog\task6\heap_sort.cpp(7,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  heap_sort.vcxproj -> C:\Users\Admin\algorithmization-10\prog\task6\x64\Debug\heap_sort.exe
